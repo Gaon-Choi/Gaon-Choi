@@ -17,6 +17,7 @@
 
 <h3 align="left">Education</h3>
 <p align="left">
+  
 - Department of Computer Science, College of Engineering, Hanyang University
 
 - Department of Electronic Engineering, College of Engineering, Hanyang University (double-major)
