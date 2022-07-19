@@ -18,10 +18,11 @@
 <h3 align="left">Education</h3>
 <p align="left">
   
-- Department of Computer Science, College of Engineering, Hanyang University
+- Department of Computer Science, College of Engineering, [Hanyang University](https://www.hanyang.ac.kr/)
 
 - Department of Electronic Engineering, College of Engineering, Hanyang University (double-major)
 
+- 2016.03 ~ 2019.02 | [Gwangju High School](http://gwangju.gen.hs.kr/main/main.php)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
