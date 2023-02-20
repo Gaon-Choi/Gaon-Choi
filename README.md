@@ -18,9 +18,9 @@
 <h3 align="left">Education</h3>
 <p align="left">
   
-- Department of Computer Science, College of Engineering, [Hanyang University](https://www.hanyang.ac.kr/)
+- B.S. Department of Computer Science, College of Engineering, [Hanyang University](https://www.hanyang.ac.kr/)
 
-- Department of Electronic Engineering, College of Engineering, Hanyang University (double-major)
+- B.S. Department of Electronic Engineering, College of Engineering, Hanyang University (double-major)
 
 - 2016.03 ~ 2019.02 | [Gwangju High School](http://gwangju.gen.hs.kr/main/main.php)
 
