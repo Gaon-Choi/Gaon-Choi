@@ -46,4 +46,4 @@
 
 <h3 align="left">Baekjoon Online Judge</h3>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=choigaon1028)](https://solved.ac/choigaon1028/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=choigaon1028)](https://solved.ac/profile/choigaon1028)
