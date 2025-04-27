@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gaon Choi</h1>
-<h3 align="center">A passionate Backend Developer</h3>
+<h3 align="center">A Computer Scientist</h3>
 
 <a href="https://github.com/devxb/gitanimals">
   <img
@@ -15,11 +15,7 @@
 
 - 🌱 I’m currently learning **TypeScript, Clean-Architecture, etc.**
 
-- 👨‍💻 All of my projects are available at [https://sites.google.com/view/gaonchoi/projects](https://sites.google.com/view/gaonchoi/projects)
-
 - 📫 How to reach me **choigaon1028@hanyang.ac.kr**
-
-- 📄 Know about my experiences [https://sites.google.com/view/gaonchoi/](https://sites.google.com/view/gaonchoi/)
 
 - ⚡ Fun fact **I'm so cute! :)**
 
